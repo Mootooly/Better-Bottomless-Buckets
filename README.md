@@ -1,4 +1,4 @@
-# Better-Bottomless-Buckets
+# Better Bottomless Buckets
   
 This mod adds more bottomless buckets into the game.
 
